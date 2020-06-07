@@ -110,6 +110,7 @@ githubusercontent.com
 gitlab-static.net
 gmail.com
 golang.org
+#google
 goo.gl
 ggpht.com
 google.co.jp
@@ -118,14 +119,16 @@ google.com.hk
 google.de
 google.com.au
 googleapis.com
+googleapis.cn
 googleblog.com
 googlecode.com
 googlegroups.com
 googlesource.com
 googleusercontent.com
 googlevideo.com
-gta5-mods.com
 gstatic.com
+#endofgoogle
+gta5-mods.com
 habitica.com
 hk01.com
 hp.com
