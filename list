@@ -40,7 +40,6 @@ blog.jp
 blogblog.com
 blogger.com
 blogimg.jp
-blogs.yahoo.co.jp
 blogspot.com
 blogspot.jp
 bloomberg.com
@@ -191,7 +190,6 @@ nyaa.si
 nyahentai3.com
 nyahentai.pw
 neowin.net
-news.yahoo.com
 ne.jp
 nexttv.com.tw
 nhentai.net
@@ -286,7 +284,6 @@ vivaldi.net
 vultr.com
 washingtonpost.com
 waterfox.net
-weather.yahoo.com
 weebly.com
 wikibooks.org
 #wiki
@@ -303,6 +300,11 @@ xdomain.jp
 xnview.com
 xvideos.com
 xyzz.work
+#yahoo
+weather.yahoo.com
+blogs.yahoo.co.jp
+news.yahoo.com
+tw.yahoo.com
 yande.re
 ycombinator.com
 youtu.be
